@@ -121,7 +121,7 @@ namespace JaxTools.AnimatorTools
             GUILayout.Space(5);
             if (GUILayout.Button("Contact me on Discord", GUILayout.Width(150)))
             {
-                Application.OpenURL("https://discord.gg/gAvSUqdnnB);
+                Application.OpenURL("https://discord.gg/gAvSUqdnnB");
             }
             GUILayout.Space(5);
             
