@@ -4,6 +4,15 @@ A Unity Editor tool for creating synchronized animator states for VRChat avatars
 
 (Vrchat syncing sucks and making a spiderweb of a bunch of remote states sucks too!!!)
 
+
+### This is a test for now. I need feedback on how it runs for other players. 
+
+Contact me on Discord!
+**@www.vrchat.com**
+https://discord.gg/gAvSUqdnnB
+
+
+
 ## Features
 
 - **Automatic State Cloning**: Creates remote copies of your animator states with customizable prefixes
@@ -133,7 +142,7 @@ The tool can automatically add VRChat Avatar Parameter Drivers to your states:
 - Create an integer parameter in your animator controller first
 
 **"No numbered states found"**
-- Ensure your states have numeric suffixes (e.g., "ToggleState1", "ToggleState2") or assign manual numbers
+- Ensure your states have numeric suffixes (e.g., "ToggleState 1", "ToggleState 2") or assign manual numbers
 
 **"Too Many States" (Binary Mode)**
 - Select more boolean parameters or reduce your state count
